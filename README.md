@@ -1,5 +1,7 @@
 
 # Progetto_GEP
+Progetto GEP di Ghislanzoni Fabio 5IC
+
 # PROBLEMA
 Il problema che la web app mira a risolvere è l'organizzare in modo compatto e semplice la propria routine di allenamento, avendo tutto in un unico ambiente
 
