@@ -78,5 +78,5 @@ Tutte le persone che praticano sport "inclusi" nell'applicazione
    - caso positivo: l'utente potrà avere visione completa dei muscoli mirati durante l'allenamento accedendo a una sezione apposita
    - caso negativo: l'utente riceverà un messaggio di errore nel quale verrà specificato cosa non è andato a buon fine
   
-#UML
+# UML
 
