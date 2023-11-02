@@ -80,3 +80,5 @@ Tutte le persone che praticano sport "inclusi" nell'applicazione
   
 # UML
 
+![add236e6](https://github.com/FabioGhislanzoni/Progetto_GEP/assets/101174856/91b75527-97de-4e57-9ad0-1550e30c9730)
+
