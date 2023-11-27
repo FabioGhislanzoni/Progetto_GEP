@@ -92,10 +92,10 @@ Tutte le persone che praticano sport "inclusi" nell'applicazione
 #WBS
 
 1. Analisi e raccolta dei requisiti
-   1.1 analisi iniziale funzioni app
-   1.2 stesura dei requisiti 
-   1.3 descrizione dei requisiti
-   1.4 creazione del diagramma UML
+   - 1.1 analisi iniziale funzioni app
+   - 1.2 stesura dei requisiti 
+   - 1.3 descrizione dei requisiti
+   - 1.4 creazione del diagramma UML
 
 2. Sviluppo
 3. Testing
