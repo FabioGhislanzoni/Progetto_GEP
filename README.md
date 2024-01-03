@@ -89,14 +89,7 @@ Tutte le persone che praticano sport "inclusi" nell'applicazione
 
 ![add236e6](https://github.com/FabioGhislanzoni/Progetto_GEP/assets/101174856/91b75527-97de-4e57-9ad0-1550e30c9730)
 
-#WBS
+# WBS
 
-1. Analisi e raccolta dei requisiti
-   - 1.1 analisi iniziale funzioni app
-   - 1.2 stesura dei requisiti 
-   - 1.3 descrizione dei requisiti
-   - 1.4 creazione del diagramma UML
+![WBS](https://github.com/FabioGhislanzoni/Progetto_GEP/assets/101174856/d799b130-28d0-448e-8c47-cc36f2ce3b23)
 
-2. Sviluppo
-3. Testing
-4. Presentazione 
