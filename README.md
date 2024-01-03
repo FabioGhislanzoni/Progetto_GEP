@@ -93,3 +93,14 @@ Tutte le persone che praticano sport "inclusi" nell'applicazione
 
 ![WBS](https://github.com/FabioGhislanzoni/Progetto_GEP/assets/101174856/d799b130-28d0-448e-8c47-cc36f2ce3b23)
 
+# Value Proposition
+- titolo: GymBro - scarica l'app e carica più peso
+- Value proposition:
+
+Massimizza i tuoi risultati in palestra con la nostra app: il compagno di allenamento definitivo. Tieni traccia del tuo percorso fitness, registra gli allenamenti senza sforzo e osserva i tuoi progressi in tempo reale. Eleva la tua esperienza di allenamento confrontandoti con altro utenti e funzionalità orientate agli obiettivi. Raggiungi i tuoi traguardi fitness con precisione e motivazione sempre a portata di mano. 
+
+- visual:
+  ...
+
+
+
