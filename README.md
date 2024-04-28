@@ -102,5 +102,8 @@ Massimizza i tuoi risultati in palestra con la nostra app: il compagno di allena
 - visual:
   ...
 
+#start-up PIVOT
 
+L'applicazione se non dovesse funzionare come servizio di tracking, come da idea originale, può essere utilizzata come punto di incontro tra palestra (fornitore di servizi) o personal trainer e utente finale. Verrà infatti implementata la possibilità di comunicazione tra le due parti e renderà il tutto più comodo e organizzato sia dal punto di vista della comunicazione che del percorso fitness intrapreso. 
+Inoltre l'applicazione implementare il concetto di multi-tenancy, dove ogni fornitore di servizi potrà richiedere una personalizzazione in base agli obbiettivi finali, i quali devono basarsi almeno sul concetto base dell'applicazione
 
